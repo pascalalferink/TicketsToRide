@@ -50,6 +50,7 @@ body {
     line-height: 0;
     margin-top: 12px;
     text-shadow: 0px 0px 6px #000000;
+    white-space: nowrap;
 }
 
 .inventory-item, .prelist-item {
@@ -153,3 +154,47 @@ body {
 .Wilno{top: 26%; left: 74%} 
 .Zágráb{top: 65%; left: 50%} 
 .Zürich{top: 56%; left: 34%}
+
+
+
+.Broadview{top: 57%; left: 7%} 
+.Kirkland{top: 12%; left: 11%} 
+.LakeCity{top: 30%; left: 12%} 
+.NorthBeach{top: 65%; left: 17%} 
+.GreenLake{top: 43%; left: 21%} 
+.Sandpoint{top: 17%; left: 22%} 
+.Ballard{top: 68%; left: 25%} 
+.PhinneyRidge{top: 53%; left: 26%} 
+.Rawenna{top: 31%; left: 28%} 
+.Magnolia{top: 77%; left: 31%} 
+.QueenAnne{top: 55%; left: 38%} 
+.Interbay{top: 62%; left: 40%} 
+.Fremont{top: 53%; left: 32%} 
+.Wallingford{top: 45%; left: 35%} 
+.UniversityDistrict{top: 34%; left: 34%} 
+.Montlake{top: 34%; left: 39%} 
+.MadisonPark{top: 27%; left: 41%} 
+.Bellevue{top: 11%; left: 43%} 
+.CapitolHill{top: 41%; left: 44%} 
+.Belltown{top: 52%; left: 49%} 
+.Downtown{top: 47%; left: 52%}
+.BainbridgeIsland{top: 89%; left: 46%} 
+.CentralDistrict{top: 36%; left: 57%} 
+.MountBaker{top: 31%; left: 60%} 
+.MercerIsland{top: 14%; left: 60%}
+
+.SoDo{top: 47%; left: 59%} 
+.HarborIsland{top: 52%; left: 63%} 
+.Alki{top: 72%; left: 63%} 
+.WestSeatle{top: 63%; left: 70%}
+
+.IndustrialDistrict{top: 46%; left: 68%} 
+.HiglandPark{top: 53%; left: 83%} 
+.SouthPark{top: 42%; left: 85%} 
+.Fauntleroy{top: 66%; left: 86%} 
+.VashonIsland{top: 78%; left: 89%} 
+.Southworth{top: 89%; left: 87%} 
+.BeaconHill{top: 38%; left: 70%} 
+.SewardPark{top: 21%; left: 74%} 
+.Georgetown{top: 30%; left: 83%} 
+.RainierBeach{top: 17%; left: 91%}
